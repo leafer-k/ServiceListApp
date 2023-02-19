@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Проекты ВК</string>
+    <string name="data_url">https://mobile-olympiad-trajectory.hb.bizmrg.com/semi-final-data.json</string>
+    <string name="timeout">5000</string>
+</resources>
